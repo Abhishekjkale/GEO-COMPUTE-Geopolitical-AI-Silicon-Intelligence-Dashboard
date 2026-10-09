@@ -1,0 +1,6 @@
+{
+  "name": "GEO-COMPUTE // Geopolitical AI & Silicon Intelligence Dashboard",
+  "description": "Strategic interactive intelligence dashboard analyzing AI compute chokepoints, trilateral export controls, asymmetric leverage, and technological decoupling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
